@@ -77,3 +77,5 @@ Training logs based on different versions of training scripts.
 
 ### Results:
 Title generation results based on different versions of training scripts.
+
+Thanks to my project partner [Fan Li](https://github.com/victorlifan) for working on this task with me.
